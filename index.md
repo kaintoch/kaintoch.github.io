@@ -11,3 +11,4 @@ Der unbegabte Zauberer Rincewind ist die Hauptfigur diverser Scheibenwelt-Romane
 
 > Luck is my middle name. Mind you, my first name is Bad.
 
+<img src="https://live.staticflickr.com/3892/14896959077_4501e4bd9a_c_d.jpg"/>
