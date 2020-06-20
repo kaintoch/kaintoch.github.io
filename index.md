@@ -9,5 +9,5 @@ Der unbegabte Zauberer Rincewind ist die Hauptfigur diverser Scheibenwelt-Romane
 * Reist viel --- oft unfreiwillig
 * Kennt viele bekannte Persönlichkeiten, z.B Cohen
 
-> "Luck is my middle name," said Rincewind, indistinctly. "Mind you, my first name is Bad."
+> Luck is my middle name. Mind you, my first name is Bad.
 
